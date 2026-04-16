@@ -1,0 +1,21 @@
+# Compiled C++ executable files
+*.exe
+
+# Compiled Java class files
+*.class
+
+# Build directories
+bin/
+build/
+dist/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
